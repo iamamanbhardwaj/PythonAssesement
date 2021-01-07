@@ -1,0 +1,1 @@
+for question3 ,pythonscript.bat file is scehduled on windows by task scehduler which can be perodically run like cron job on linux/unix.  
